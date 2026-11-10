@@ -1,12 +1,3 @@
-<!--
-IMAGE FILE NAMES (put these in an /images folder next to this README):
-1-screenshot-whois-1.png          2-screenshot-whois-2.png          3-screenshot-whois-3.png
-4-screenshot-whatweb.png          5-screenshot-nslookup.png         6-screenshot-curl.png
-7-screenshot-wafw00f.png          8-screenshot-dnsrecon.png         9-screenshot-maltego-email.png
-10-screenshot-maltego-dns.png     11-screenshot-maltego-graph.png   12-screenshot-theharvester.png
-13-screenshot-zenmap-ping-scan.png   14-screenshot-msiexec-error.png (optional, for Problem 1)
-REDACT the MAC addresses (and any other identifiers) in image 13 before pushing to a public repo.
--->
 
 <div align="center">
 
