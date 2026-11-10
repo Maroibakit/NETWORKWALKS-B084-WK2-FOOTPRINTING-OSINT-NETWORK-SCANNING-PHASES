@@ -305,9 +305,6 @@ The Maltego installer failed at the bundled Java step. The Windows Installer log
 Product: Eclipse Temurin JRE with Hotspot 17.0.8.1+1 (x64) -- Error 1500.
 Another installation is in progress. You must complete that installation before continuing this one.
 ```
-![msiexec error](images/14-screenshot-msiexec-error.png)
-> *Description: Windows Installer reporting that another installation is in progress.*
-
 * **Investigation:**
   ```powershell
   Get-CimInstance Win32_Process -Filter "Name='msiexec.exe'" |
