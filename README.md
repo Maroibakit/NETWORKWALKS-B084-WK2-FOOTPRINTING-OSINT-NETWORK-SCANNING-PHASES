@@ -51,7 +51,7 @@ graph LR
 ## 🎯 Objectives
 - Collect domain registration, DNS, web-technology and perimeter-defence information about a target using six Kali Linux tools.
 - Correlate a single domain into a graph of e-mail addresses, subdomains, mail servers and websites with Maltego.
-- Harvest hostnames, IPs and e-mail addresses from public sources with theHarvester.
+- Harvest hostnames, IPs and email addresses from public sources with theHarvester.
 - Identify the local subnet, discover live hosts, and capture IP and MAC addresses with Zenmap.
 - Interpret every finding from an attacker's point of view and rate its risk.
 - Recommend practical defensive improvements.
