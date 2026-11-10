@@ -40,10 +40,10 @@ Four practicals were completed:
 | **W2-PM5** | Host discovery with Zenmap | My own local LAN (`10.0.1.0/24`) |
 
 ```mermaid
-flowchart LR
-    A["W2-PM1<br/>Fingerprinting<br/>(6 Kali tools)"] --> B["W2-PM3<br/>Maltego<br/>link analysis"]
-    B --> C["W2-PM4<br/>theHarvester<br/>passive OSINT"]
-    C --> D["W2-PM5<br/>Zenmap<br/>host discovery"]
+graph LR
+    A[PM1 Fingerprinting] --> B[PM3 Maltego]
+    B --> C[PM4 theHarvester]
+    C --> D[PM5 Zenmap]
 ```
 
 ---
