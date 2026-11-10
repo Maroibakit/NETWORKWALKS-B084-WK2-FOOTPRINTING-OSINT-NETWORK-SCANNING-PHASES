@@ -344,6 +344,8 @@ A single hung MSI can block every other Windows installation. Checking `msiexec`
 ### 7. Documentation
 Findings are only useful when they are clearly documented: what was done, what was seen, why it matters, and how to reduce the risk.
 
+📄 **Full report:** [W2-PM-FINAL Penetration Testing Report (PDF)](report/W2-PM-FINAL-Report.pdf)
+
 ---
 
 ## 🔐 Security & Ethical Disclaimer
